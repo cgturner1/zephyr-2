@@ -9,7 +9,7 @@ on:
     - ready_for_review
     branches:
     - main
-    - v*-branch
+    - v*-branch-2
 
 jobs:
   assignment:
